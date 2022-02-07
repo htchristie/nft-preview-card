@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-using-flexbox-dpVLNo2BV](https://www.frontendmentor.io/solutions/nft-preview-card-using-flexbox-dpVLNo2BV)
 - Live Site URL: [https://nft-preview-card-71z.pages.dev/](https://nft-preview-card-71z.pages.dev/)
 
 ## My process
