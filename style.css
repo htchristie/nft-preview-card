@@ -98,7 +98,8 @@ main {
   transition: opacity .15s ease-in-out;
 }
 
-.card-body h3 {
+.card-body h1 {
+  font-size: 1.2rem;
   color: var(--white);
   font-weight: 600;
 }
